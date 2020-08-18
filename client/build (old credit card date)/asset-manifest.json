@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/king-fashion/static/css/main.42cc8b22.chunk.css",
+    "main.js": "/portfolio/king-fashion/static/js/main.9c99213a.chunk.js",
+    "main.js.map": "/portfolio/king-fashion/static/js/main.9c99213a.chunk.js.map",
+    "runtime-main.js": "/portfolio/king-fashion/static/js/runtime-main.dcc6069e.js",
+    "runtime-main.js.map": "/portfolio/king-fashion/static/js/runtime-main.dcc6069e.js.map",
+    "static/js/2.4322f69b.chunk.js": "/portfolio/king-fashion/static/js/2.4322f69b.chunk.js",
+    "static/js/2.4322f69b.chunk.js.map": "/portfolio/king-fashion/static/js/2.4322f69b.chunk.js.map",
+    "index.html": "/portfolio/king-fashion/index.html",
+    "precache-manifest.41deb128401adc338e77e24b13b5c116.js": "/portfolio/king-fashion/precache-manifest.41deb128401adc338e77e24b13b5c116.js",
+    "service-worker.js": "/portfolio/king-fashion/service-worker.js",
+    "static/css/main.42cc8b22.chunk.css.map": "/portfolio/king-fashion/static/css/main.42cc8b22.chunk.css.map",
+    "static/js/2.4322f69b.chunk.js.LICENSE.txt": "/portfolio/king-fashion/static/js/2.4322f69b.chunk.js.LICENSE.txt",
+    "static/media/crown.ed28accb.svg": "/portfolio/king-fashion/static/media/crown.ed28accb.svg",
+    "static/media/shopping-bag.30f07071.svg": "/portfolio/king-fashion/static/media/shopping-bag.30f07071.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcc6069e.js",
+    "static/js/2.4322f69b.chunk.js",
+    "static/css/main.42cc8b22.chunk.css",
+    "static/js/main.9c99213a.chunk.js"
+  ]
+}

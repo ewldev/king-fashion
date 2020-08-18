@@ -1,6 +1,5 @@
 {
-  "name": "king-fashion",
-  "homepage": "https://ewldesign.com/portfolio/king-fashion",
+  "name": "king-clothing",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:5000",
