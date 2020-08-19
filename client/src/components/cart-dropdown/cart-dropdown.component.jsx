@@ -27,7 +27,7 @@ const CartDropdown = ({ cartItems, history, dispatch }) => (
     </CartItemsContainer>
     <CartDropdownButton
       onClick={() => {
-        history.push('/checkout');
+        history.push('/portfolio/king-fashion/checkout');
         dispatch(toggleCartHidden());
       }}
     >

@@ -19,17 +19,17 @@ import {
 
 const Header = ({ currentUser, hidden, signOutStart }) => (
   <HeaderContainer>
-    <LogoContainer to='/'>
+    <LogoContainer to='/portfolio/king-fashion/'>
       <Logo className='logo' />
     </LogoContainer>
     <OptionsContainer>
-      <OptionLink to='/shop'>SHOP</OptionLink>
+      <OptionLink to='/portfolio/king-fashion/shop'>SHOP</OptionLink>
       {currentUser ? (
         <OptionLink as='div' onClick={signOutStart}>
           SIGN OUT
         </OptionLink>
       ) : (
-        <OptionLink to='/signin'>SIGN IN</OptionLink>
+        <OptionLink to='/portfolio/king-fashion/signin'>SIGN IN</OptionLink>
       )}
       <CartIcon />
     </OptionsContainer>

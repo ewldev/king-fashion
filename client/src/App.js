@@ -24,14 +24,14 @@ const App = ({ checkUserSession, currentUser }) => {
       <GlobalStyle />
       <Header />
       <Switch>
-        <Route exact path='/' component={HomePage} />
-        <Route path='/shop' component={ShopPage} />
-        <Route exact path='/checkout' component={CheckoutPage} />
+        <Route exact path='/portfolio/king-fashion' component={HomePage} />
+        <Route path='/portfolio/king-fashion/shop' component={ShopPage} />
+        <Route exact path='/portfolio/king-fashion/checkout' component={CheckoutPage} />
         <Route
           exact
-          path='/signin'
+          path='/portfolio/king-fashion/signin'
           render={() =>
-            currentUser ? <Redirect to='/' /> : <SignInAndSignUpPage />
+            currentUser ? <Redirect to='/portfolio/king-fashion' /> : <SignInAndSignUpPage />
           }
         />
       </Switch>
