@@ -19,7 +19,6 @@
 /client/.env.test.local
 /client/.env.production.local
 
-
 .env
 
 /client/npm-debug.log*
