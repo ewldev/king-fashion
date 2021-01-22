@@ -1,6 +1,7 @@
 {
   "name": "king-fashion",
-  "homepage": "https://ewldesign.com/portfolio/king-fashion",
+  // "homepage": "https://ewldesign.com/portfolio/king-fashion",
+  "homepage": "https://king-fashion.herokuapp.com",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:5000",
